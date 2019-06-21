@@ -32,7 +32,7 @@ Make sure all of your posts have been built, then deploy the public folder via a
 
 ## Dependencies
 
-You can install custom dependencies on a per-post basis by running `npm install <package-name> --save` in the post directory. Note that any collaborators will also need to add the dependency by running `npm install` after pulling your changes to also download the package locally.
+You can install custom dependencies on a per-post basis by running `npm install <package-name> --save` in the post directory. Note that any collaborators will also need download the package locally by running `npm install` after pulling the changes.
 
 # Known limitations
 

@@ -7,7 +7,7 @@
     "layout": "centered",
     "css": "styles.css",
     "authorView": false,
-    "output": "public/"
+    "output": "docs/"
   },
   "dependencies": {
     "d3": "^4.0.0",

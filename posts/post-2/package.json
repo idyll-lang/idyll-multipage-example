@@ -7,7 +7,7 @@
     "layout": "centered",
     "css": "styles.css",
     "authorView": false,
-    "output": "../../public/post-2/",
+    "output": "../../docs/post-2/",
     "components": [
       "../../components/",
       "components"

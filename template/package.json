@@ -7,7 +7,7 @@
     "layout": "centered",
     "css": "styles.css",
     "authorView": false,
-    "output": "../../public/[slug]/",
+    "output": "../../docs/[slug]/",
     "components": ["../../components/", "components"]
   },
   "dependencies": {
